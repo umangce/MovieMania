@@ -1,0 +1,2 @@
+rootProject.name='moviemania'
+include ':app'
